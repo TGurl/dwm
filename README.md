@@ -1,5 +1,8 @@
-THIS IS A CLONE OF DWM. GET THE ORIGINAL FROM SUCKLESS.ORG
-==========================================================
+THIS IS A CLONE OF DWM.
+=======================
+
+GET THE ORIGINAL FROM SUCKLESS.ORG
+==================================
 
 
 dwm - dynamic window manager
